@@ -19,7 +19,7 @@
 
 <!--Contact Map section start-->
 <div class="contact-map-section section">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1346.5107053857876!2d106.67697876727259!3d10.726371847680781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1688848442812!5m2!1svi!2s" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7667.191692659531!2d108.1438533!3d16.086449!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1691814276417!5m2!1svi!2s" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <!--Contact Map section End-->
 
@@ -34,15 +34,15 @@
                     <ul>
                         <li>
                             <span class="icon"><i class="fa-regular fa-map"></i></span>
-                            <span class="text"><span>C11/36 Phạm Hùng, H.Bình Chánh, TP.HCM</span></span>
+                            <span class="text"><span>421 Nguyễn Lương Bằng - Hòa Khánh Bắc - Liên Chiểu - Đà Nẵng </span></span>
                         </li>
                         <li>
                             <span class="icon"><i class="fa-solid fa-phone"></i></span>
-                            <span class="text"><a href="#">0916475837</a></span>
+                            <span class="text"><a href="#">0813 840 506</a></span>
                         </li>
                         <li>
                             <span class="icon"><i class="fa-regular fa-envelope-open"></i></span>
-                            <span class="text"><a href="#">giangntps31300@fpt.edu.vn</a></span>
+                            <span class="text"><a href="#">lequangvanquyen@gmail.com</a></span>
                         </li>
                     </ul>
                 </div>

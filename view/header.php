@@ -28,8 +28,8 @@
                             <!--Links start-->
                             <div class="header-top-links">
                                 <ul>
-                                    <li><a href="#"><i class="fa fa-phone"></i>(08) 123 456 7890</a></li>
-                                    <li><a href="#"><i class="fa fa-envelope-open-o"></i>yourmail@domain.com</a></li>
+                                    <li><a href="#"><i class="fa fa-phone"></i>(+84) 813 840 506</a></li>
+                                    <li><a href="#"><i class="fa fa-envelope-open-o"></i>lequangvanquyen@gmail.com</a></li>
                                 </ul>
                             </div>
                             <!--Links end-->
